@@ -4,8 +4,6 @@
 
 🌐 **Site:** [fabiola-libras.github.io](https://fabiola-libras.github.io/)
 
-![Fabíola Alves](Perfil.jpeg)
-
 ## Sobre
 
 Sou **Fabíola Alves**, tradutora, intérprete e **traduartista** de Libras há mais de 10 anos. Atuo com tradução e interpretação simultânea em eventos presenciais e em plataformas de transmissão remota.
