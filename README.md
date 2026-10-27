@@ -4,9 +4,13 @@
 
 🌐 **Site:** [fabiola-libras.github.io](https://fabiola-libras.github.io/)
 
+<p align="center">
+  <img src="Perfil.jpeg" alt="Fabíola Alves" width="200">
+</p>
+
 ## Sobre
 
-Sou **Fabíola Alves**, tradutora, intérprete e **traduartista** de Libras há mais de 10 anos. Atuo com tradução e interpretação simultânea em eventos presenciais e em plataformas de transmissão remota.
+Sou **Fabíola Alves**, tradutora, intérprete e **traduartista** de Libras há mais de 10 anos, com experiência em eventos presenciais e plataformas de transmissão remota. Sou **CODA** (filha de pais surdos), sinalizante de Libras desde a infância, e minha trajetória é marcada pela vivência na comunidade surda e pela experiência bilíngue entre Libras e português.
 
 Como traduartista, sou habilitada para atuar com Libras no contexto artístico. Levo a Libras ao palco em teatro, música, festivais e produções audiovisuais, com expressão corporal e facial, ritmo e presença cênica.
 
@@ -15,7 +19,8 @@ Como traduartista, sou habilitada para atuar com Libras no contexto artístico. 
 - Graduada em **Pedagogia**
 - Especialista em **Tradução e Interpretação de Libras**
 - Mestranda na **UTFPR**
-- Certificações de proficiência pelas bancas **CAS-PR** e **FENEIS**
+- Certificações de proficiência pelo **CAS-PR** e pela **FENEIS**
+- Participante da **Mentoria Traduarte** (tradução artística em Libras), com certificação conjunta da Fluindo Libras, Febrapils, SATED-PR e FluindoFlix
 
 ## Áreas de atuação
 
@@ -34,3 +39,5 @@ Como traduartista, sou habilitada para atuar com Libras no contexto artístico. 
 - 💼 LinkedIn: [fabiola-alves-santos](https://www.linkedin.com/in/fabiola-alves-santos/)
 
 ---
+
+Site desenvolvido em HTML, CSS e JavaScript por [Carlos Fernando dos Santos](https://github.com/CaboFernando).
