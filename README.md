@@ -4,10 +4,6 @@
 
 🌐 **Site:** [fabiola-libras.github.io](https://fabiola-libras.github.io/)
 
-<p align="center">
-  <img src="Perfil.jpeg" alt="Fabíola Alves" width="200">
-</p>
-
 ## Sobre
 
 Sou **Fabíola Alves**, tradutora, intérprete e **traduartista** de Libras há mais de 10 anos, com experiência em eventos presenciais e plataformas de transmissão remota. Sou **CODA** (filha de pais surdos), sinalizante de Libras desde a infância, e minha trajetória é marcada pela vivência na comunidade surda e pela experiência bilíngue entre Libras e português.
